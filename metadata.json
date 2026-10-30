@@ -1,0 +1,6 @@
+{
+  "name": "TETRIS 3D — Spatial Block Puzzle",
+  "description": "Полноценный трёхмерный Тетрис с классической механикой SRS, фасочными 3D-блоками, физикой упругого приземления, частицами и процедурным синтезатором.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
